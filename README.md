@@ -24,3 +24,9 @@ Task Tracker is an innovative solution that transforms your daily task managemen
 
    ```bash
    git clone https://github.com/edwinnambaje/task-tracker.git
+   cd TaskTracker-Fn
+   Do npm install
+   run npm run dev 
+
+
+### Screenshoots
