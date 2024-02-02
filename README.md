@@ -31,20 +31,21 @@ Task Tracker is an innovative solution that transforms your daily task managemen
 
 ### Screenshoots
 
-<a href="https://postimg.cc/BLqM9bmY" target="_blank"><img src="https://i.postimg.cc/BLqM9bmY/Screenshot-2024-02-02-233620.png" alt="Screenshot-2024-02-02-233620"/></a><br/><br/>
-<a href="https://postimg.cc/zyZwY3BC" target="_blank"><img src="https://i.postimg.cc/zyZwY3BC/Screenshot-2024-02-02-233634.png" alt="Screenshot-2024-02-02-233634"/></a><br/><br/>
-<a href="https://postimg.cc/vD2XkQfh" target="_blank"><img src="https://i.postimg.cc/vD2XkQfh/Screenshot-2024-02-02-234223.png" alt="Screenshot-2024-02-02-234223"/></a><br/><br/>
-<a href="https://postimg.cc/N2FDFVqR" target="_blank"><img src="https://i.postimg.cc/N2FDFVqR/Screenshot-2024-02-02-234237.png" alt="Screenshot-2024-02-02-234237"/></a><br/><br/>
-<a href="https://postimg.cc/ftB5wsFw" target="_blank"><img src="https://i.postimg.cc/ftB5wsFw/Screenshot-2024-02-02-234248.png" alt="Screenshot-2024-02-02-234248"/></a><br/><br/>
-<a href="https://postimg.cc/nC62V0dQ" target="_blank"><img src="https://i.postimg.cc/nC62V0dQ/Screenshot-2024-02-02-234259.png" alt="Screenshot-2024-02-02-234259"/></a><br/><br/>
-<a href="https://postimg.cc/1fgMZLKQ" target="_blank"><img src="https://i.postimg.cc/1fgMZLKQ/Screenshot-2024-02-02-234514.png" alt="Screenshot-2024-02-02-234514"/></a><br/><br/>
-<a href="https://postimg.cc/c6LXFKg6" target="_blank"><img src="https://i.postimg.cc/c6LXFKg6/Screenshot-2024-02-02-234527.png" alt="Screenshot-2024-02-02-234527"/></a><br/><br/>
-<a href="https://postimg.cc/dhrBhrXN" target="_blank"><img src="https://i.postimg.cc/dhrBhrXN/Screenshot-2024-02-02-234542.png" alt="Screenshot-2024-02-02-234542"/></a><br/><br/>
-<a href="https://postimg.cc/WFb6YK4x" target="_blank"><img src="https://i.postimg.cc/WFb6YK4x/Screenshot-2024-02-02-234606.png" alt="Screenshot-2024-02-02-234606"/></a><br/><br/>
-<a href="https://postimg.cc/kVCyKDPJ" target="_blank"><img src="https://i.postimg.cc/kVCyKDPJ/Screenshot-2024-02-02-234617.png" alt="Screenshot-2024-02-02-234617"/></a><br/><br/>
-<a href="https://postimg.cc/NLFk1WSH" target="_blank"><img src="https://i.postimg.cc/NLFk1WSH/Screenshot-2024-02-02-234629.png" alt="Screenshot-2024-02-02-234629"/></a><br/><br/>
-<a href="https://postimg.cc/2L1drZhw" target="_blank"><img src="https://i.postimg.cc/2L1drZhw/Screenshot-2024-02-02-234641.png" alt="Screenshot-2024-02-02-234641"/></a><br/><br/>
-<a href="https://postimg.cc/XZgk83nw" target="_blank"><img src="https://i.postimg.cc/XZgk83nw/Screenshot-2024-02-02-234652.png" alt="Screenshot-2024-02-02-234652"/></a><br/><br/>
-<a href="https://postimg.cc/YjPf8dBy" target="_blank"><img src="https://i.postimg.cc/YjPf8dBy/Screenshot-2024-02-02-234702.png" alt="Screenshot-2024-02-02-234702"/></a><br/><br/>
-<a href="https://postimg.cc/LnZkWjH4" target="_blank"><img src="https://i.postimg.cc/LnZkWjH4/Screenshot-2024-02-02-234720.png" alt="Screenshot-2024-02-02-234720"/></a><br/><br/>
-<a href="https://postimg.cc/JsNNrmD9" target="_blank"><img src="https://i.postimg.cc/JsNNrmD9/Screenshot-2024-02-02-234755.png" alt="Screenshot-2024-02-02-234755"/></a><br/><br/>
+![Screenshot 2024-02-02 234755](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/3b74db80-1a63-4d40-9a7e-ea8480c0ab56)
+![Screenshot 2024-02-02 234720](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/2297d8dc-6a43-4bbb-91dd-9f63e685f0d1)
+![Screenshot 2024-02-02 234720 - Copy](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/752930d2-fca2-43f7-9654-44de155a1328)
+![Screenshot 2024-02-02 234702](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/d5c6e9f2-7049-4947-bd73-5cab67fd98ed)
+![Screenshot 2024-02-02 234702 - Copy](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/82391da6-10c5-409f-a1b8-b061d5988ba4)
+![Screenshot 2024-02-02 234641](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/377ab250-7b7d-4710-9c0d-7a5570bb3c0b)
+![Screenshot 2024-02-02 234629](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/863d675c-46ab-4381-a6a2-9c9035af3090)
+![Screenshot 2024-02-02 234617](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/bd6b9bb3-c371-4da0-8f89-83608823ae36)
+![Screenshot 2024-02-02 234606](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/628d29a7-e9c5-444c-af9d-fedce65e98f4)
+![Screenshot 2024-02-02 234542](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/10e28451-4a76-4996-bac6-99075d59aff3)
+![Screenshot 2024-02-02 234527](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/d2b5ac5e-d4d8-4bbd-8906-b09a9d14e9fd)
+![Screenshot 2024-02-02 234514](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/9096f661-3f9a-4abf-9f2c-a13ce22d5c6c)
+![Screenshot 2024-02-02 234259](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/147f2a24-fa08-49e4-bbd3-c9b96db8bac4)
+![Screenshot 2024-02-02 234237](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/f2b14521-fe0c-4dd0-95d6-283f9da631d4)
+![Screenshot 2024-02-02 234223](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/aa69ecde-a6b5-45ef-91c7-2e91db35f49e)
+![Screenshot 2024-02-02 233634](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/a283ffa8-bb5f-4db8-a913-52fdf2432a28)
+![Screenshot 2024-02-02 233620](https://github.com/edwinnambaje/TaskTracker-Fn/assets/56297754/da4e5e7c-0f01-4f70-b604-db228c7f804d)
+
