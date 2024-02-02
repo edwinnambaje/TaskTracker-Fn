@@ -28,7 +28,7 @@ const DashboardAppbar = () => {
                 <div className="flex gap-2 p-2 px-4 bg-primary-light bg-opacity-50 items-center cursor-pointer hover:bg-primary hover:bg-opacity-10">
                     <div>
                         <div className="bg-primary bg-opacity-60 w-12 h-12 rounded-full flex items-center justify-center text-2xl font-extrabold text-white">
-                            <span>Admin</span>
+                            <span>A</span>
                         </div>
                     </div>
                     <div className="flex flex-col -space-y-1">
